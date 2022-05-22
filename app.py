@@ -1,0 +1,21 @@
+app = Flask(__name__)
+import app
+
+print("example __name__ = %s", __name__)
+
+if __name__ == "__main__":
+    print("example is being run directly.")
+else:
+    print("example is being imported")
+
+@app.route("/")
+def welcome():
+    return(
+    '''
+    Welcome to the Climate Analysis API!
+    Available Routes:
+    /api/v1.0/precipitation
+    /api/v1.0/stations
+    /api/v1.0/tobs
+    /api/v1.0/temp/start/end
+    ''')
