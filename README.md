@@ -7,11 +7,11 @@ based on the sumarry statistics there is no reason to be concerned about the flu
 
 ## June:
 
-![[image](https://github.com/mmilner3/Surfs_up/blob/main/Capture1.PNG)
+![image](https://github.com/mmilner3/Surfs_up/blob/main/Capture1.PNG)
 
 ## December:
 
-![image]https://github.com/mmilner3/Surfs_up/blob/main/Capture2.PNG
+![image](https://github.com/mmilner3/Surfs_up/blob/main/Capture2.PNG)
 
 Two additional queries to perform: 
 - what is the fluctuation of temp over time of day
